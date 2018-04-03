@@ -38,4 +38,3 @@ These instructions will provide you a component list and steps to get up and run
 
 [simpledwiring]: https://github.com/zeanion/led-simple-rpi-py/raw/master/images/led-simple-breadboard.png "Breadboard wiring"
 [demo]: https://github.com/zeanion/led-simple-rpi-py/raw/master/images/led-simple-demo.png "Demo"
-# led-simple-rpi-py
